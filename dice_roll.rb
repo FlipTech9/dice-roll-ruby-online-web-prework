@@ -4,5 +4,5 @@
 
 def roll(1..6)
   # code goes here
-  return rand(1..6)
+  roll.rand(1..6)
 end
